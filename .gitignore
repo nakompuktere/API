@@ -1,0 +1,8 @@
+.env
+.cache
+.pythonlibs
+.upm
+replit_zip_error_log.txt
+*.lock
+*.toml
+.replit
